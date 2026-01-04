@@ -1,2 +1,2 @@
 # dsa-practice
-Data Structures &amp; Algorithms practice with notes and solutions
+A comprehensive Data Structures & Algorithms practice repository featuring clear notes, patterns, and interview-ready solutions
